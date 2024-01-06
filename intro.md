@@ -4,5 +4,3 @@ Dit document hoort bij een workshop ChatGPT voor docenten. Deze is voor het eers
 
 De presentatie van deze workshop vind je [hier](figs/chatten-met-docenten.pdf)
 
-```{tableofcontents}
-```
