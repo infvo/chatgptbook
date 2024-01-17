@@ -1,10 +1,11 @@
+(achtergrondmateriaal)=
 # Achtergrondmateriaal
 
 Er zijn zeer veel video's en blogs, goede en minder goede, waar je informatie over
 het gebruik van ChatGPT voor het onderwijs kunt vinden.
 
 :::{tip}
-Veel van dit materiaal is in het Engels - maar dat hoeft tegenwoordig niet altijd een probleem te zijn.
+Veel van dit materiaal is in het Engels - maar dat hoeft niet altijd een probleem te zijn.
 
 Bij Youtube kun je de ondertiteling inschakelen, desgewenst zelfs de automatisch gegenereerde Nederlandse ondertiteling. Deze klopt niet altijd, maar je kunt de grote lijnen meestal goed volgen. Ook kun je de video in een wat lager tempo afspelen.
 
@@ -14,6 +15,12 @@ Engelstalige teksten in blogs kun je via de browser vertalen (of via ChatGPT).
 De belangrijkste bronnen die wij gebruiken:
 
 ## Boek
+
+:::{image} figs/chatten-met-napoleon.png
+:width: 200
+:align: center
+
+:::
 
 Het boek [Chatten met Napoleon](https://www.boomhogeronderwijs.nl/product/100-14318_Chatten-met-Napoleon)
 van Barend Last en Thijmen Sprakel geeft een goede 
@@ -40,6 +47,3 @@ Khan Academy voor de inzet van ChatGPT als *tutor* (Khan Migo).
 De blog van Ethan Mollick, https://oneusefulthing.com, is zeer informatief en
 geeft veel inzicht in ChatGPT en het gebruik daarvan, in het bijzonder voor het onderwijs.
 
-Voor een technische verdieping, met het nieuwste onderzoek op het gebied van LLMs,
-kun je de blog [Ahead of AI](https://magazine.sebastianraschka.com) 
-van Sebastian Raschka volgen.

@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  # title:
+  title: Cursus ChatGPT voor docenten
   # description:
   keywords: []
   authors: []
@@ -9,11 +9,17 @@ project:
   # bibliography: []
 site:
   template: book-theme
+  title: "Cursus ChatGPT voor docenten"
+  options:
+    logo: assets/ieni-logo-115.png
+    logo_text: "Cursus ChatGPT voor docenten"  
   # title:
   # options:
   #   logo: site_logo.png
   nav: []
   actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
+    - title: i&i forum
+      url: https://forum.ieni.org/c/ai-voor-onderwijs/25 
+    - title: i&i home
+      url: https://ieni.org
   domains: []

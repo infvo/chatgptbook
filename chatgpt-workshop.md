@@ -1,4 +1,5 @@
-# Opzet ChatGTP workshop
+(chatgpt-workshop)=
+# ChatGTP workshop
 
 :::{admonition} Over de workshop
 
