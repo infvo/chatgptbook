@@ -38,6 +38,8 @@ De workshop vormt het begin van de cursus; deze workshop wordt op meerdere manie
 * online: zie de aankondigingen in de i&i nieuwsbrief
 * fysiek, op de eigen school
     * hierbij kan i&i ondersteuning bieden, tegen kostprijs.
+    * je kunt deze workshop door een eigen (informatica-)docent laten organiseren.
+    * of i&i vragen om een docent hiervoor te leveren.
 
 De workshop ChatGPT voor docenten is voor het eerst gehouden op de i&i conferentie in november 2023, door Ramon Moorlag, Yuri Tax, en Eelco Dijkstra. De presentatie van deze workshop vind je [hier](figs/chatten-met-docenten.pdf) . De bijbehorende tekst, met achtergrondinformatie, vind je in hoofdstuk [ChatGPT workshop](chatgpt-workshop).
 
@@ -58,7 +60,15 @@ Om met ChatGPT aan de slag te gaan, heb je een account nodig. Je kunt werken met
 
 ## Kosten en tijdsinvestering
 
-* kosten van de workshop: 500 Euro (voor een groep van ca. 15 deelnemers)
+:::{admonition} Concept-kostenraming!
+De kosten hieronder zijn nog een voorlopige raming.
+Maak een afspraak (e.dijkstra@ieni.org) om hiermee aan de slag te gaan.
+:::
+
+* kosten van de workshop:
+    * als onderdeel van de i&i conferentie (kosten van de conferentie-deelname: 150 Euro)
+    * op de eigen school, door i&i-docent verzorgd: 500 Euro (voor een groep van ca. 15 deelnemers)
+    * 
 * boek: 25 Euro per deelnemer
 * ChatGPT Plus, 6 maanden: ca. 120 Euro
 * online begeleiding door i&i, gebruik materialen: 50 Euro per deelnemer
