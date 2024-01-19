@@ -4,13 +4,7 @@ De cursus begint met een [workshop ChatGPT](workshop-chatgpt), online of fysiek.
 Na deze workshop gaan de deelnemers *zelf aan de slag*, bij voorkeur met een groep docenten van de eigen school.
 Deze docenten komen eens per maand/4 weken fysiek bijeen, om hun resultaten en ervaringen te delen, en om hun ChatGPT-plannen voor de komende periode te bespreken. Ook kunnen dan vragen geformuleerd worden voor de online feedback sessies. Deze bijeenkomsten zijn bij voorkeur op de eigen school.
 
-:::{admonition} Doel van de cursus
-Het (ambitieuze) *doel van de cursus* is om docenten te leren werken met ChatGPT (en andere vormen van AI), voor het verbeteren van hun onderwijs, en voor het verbeteren van het leren van hun leerlingen.
 
-- docenten: beter onderwijs met ChatGPT in minder tijd (en met meer plezier)
-- leerlingen: meer leren in met ChatGPT in minder tijd (en met meer plezier)
-- en: beiden beter voorbereid op een toekomst met AI
-:::
 
 ## ChatGPT leren: zelf aan de slag
 
