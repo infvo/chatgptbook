@@ -12,7 +12,15 @@ workshop ook geven voor hun collega-docenten. Bij de voorbereiding kan het i&i-t
 ondersteuning bieden. Vragen en opmerkingen bij dit materiaal zijn welkom:
 we proberen deze workshop steeds te verbeteren en bij-de-tijd te houden.
 
-De workshop duurt ca. 90 minuten, een eventuele pauze niet meegerekend.
+De workshop duurt ca. 90-120 minuten, een eventuele pauze niet meegerekend.
+:::
+
+:::{admonition} Voorbereiding/meenemen
+:class: tip
+
+- een ChatGPT account; bij voorkeur, ChatGPT Plus (ca. 20 Euro/maand)
+- laptop met recente browser
+
 :::
 
 **De onderstaande tekst hoort bij de [presentatie](figs/chatten-met-docenten.pdf)**
