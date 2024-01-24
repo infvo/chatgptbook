@@ -46,7 +46,8 @@ Khan Academy voor de inzet van ChatGPT als *tutor* (Khan Migo).
 
 De blog van Ethan Mollick, https://www.oneusefulthing.org , is zeer informatief en
 geeft veel inzicht in ChatGPT en het gebruik daarvan, in het bijzonder voor het onderwijs.
-Als je bij wilt blijven, abonneer je je op zijn nieuwsbrief.
+Als je bij wilt blijven over de mogelijkheden van ChatGPT voor het onderwijs, 
+abonneer je dan op zijn nieuwsbrief.
 
 ## Kritische geluiden
 
