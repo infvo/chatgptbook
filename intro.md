@@ -73,6 +73,6 @@ Maak een afspraak (e.dijkstra@ieni.org) om hiermee aan de slag te gaan.
 * ChatGPT Plus, 6 maanden: ca. 120 Euro (optioneel, maar sterk aanbevolen)
 * gebruik materialen op deze website: gratis
 * online begeleiding door i&i: voor i&i leden gratis
-    * suggestie: meld de deelnemers ook aan als i&i lid (35 Euro/jaar). Met die bijdragen kunnen we onder meer dit materiaal up-to-date houden.
+    * suggestie: meld alle deelnemers aan als i&i lid (35 Euro/jaar). Met die bijdragen kunnen we onder meer dit materiaal up-to-date houden.
 
 Tijdsinvestering: workshop: 2-3 uur; maandelijkse bijeenkomsten: 1,5 uur; zelf aan de slag: 2-5 uur per week (voor je dagelijkse werk). Na ca. 10 uur kun je ChatGPT gebruiken voor je dagelijkse werk - om beter onderwijs te geven, en/of in minder tijd.
