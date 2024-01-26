@@ -58,6 +58,8 @@ Om met ChatGPT aan de slag te gaan, heb je een account nodig. Je kunt werken met
 * je kunt gespecialiseerde versies van ChatGPT maken, zogenaamde GPTs
 * je kunt de GPTs van anderen gebruiken
 
+In plaats van de individuele ChatGPT Plus, kun je als team docenten ook een (iets duurdere) Team-abonnement nemen.
+
 ## Kosten en tijdsinvestering
 
 :::{admonition} Concept-kostenraming!
