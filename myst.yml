@@ -5,7 +5,7 @@ project:
   # description:
   keywords: []
   authors: []
-  github: https://github.com/eelcodijkstra/chatgptbook
+  github: https://github.com/infvo/chatgptbook
   # bibliography: []
 site:
   template: book-theme
