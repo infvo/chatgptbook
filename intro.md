@@ -12,8 +12,6 @@ Het (ambitieuze) *doel van de cursus* is om docenten te leren werken met ChatGPT
 
 :::{tip} Eerstvolgende worskhops
 
-* maandag 26 februari, 15:30-17:00 uur (i&i online)
-    * [aanmelden online workshop](https://docs.google.com/forms/d/e/1FAIpQLSey9b1KYY2Eg3VPuWMHg-5Ly2bLRJJ32X23S-5tvbmQGUfcng/viewform?usp=sf_link])  
 * donderdag 18 april, Utrecht (i&i conferentie, fysiek)
     * [aanmelden conferentie](https://www.smink-registratie.nl/ieni/)
     * [conferentie-website](https://ieni.github.io/april2024/)
