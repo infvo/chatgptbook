@@ -5,6 +5,35 @@ De onderstaande voorbeelden zijn ontleend aan Mollick & Mollick; zie
 https://github.com/microsoft/prompts-for-edu/tree/main. 
 Deze zijn beschikbaar onder de MIT licentie.
 
+Zie ook:
+
+* https://www.oneusefulthing.org/p/working-with-ai-two-paths-to-prompting
+* OpenAI handleiding voor prompts: https://platform.openai.com/docs/guides/prompt-engineering (met verwijzingen naar meer literatuur hierover)
+
+En natuurlijk het boek Chatten met Napoleon.
+
+**Opmerking 1.** ChatGPT en andere LLMs (large language models) zoals Google Gemini evolueren voortdurend. Dit kan betekenen dat je prompts die eerder goed werkten, bijgesteld moeten worden voor een nieuwe versie. *prompt engineering* is meer kunst(je) dan harde wetenschap.
+
+**Opmerking 2.** De belangrijkste regel is: *geef context*. En dat is precies waar de evolutie plaatsvindt: je kunt steeds meer context opgeven, bijvoorbeeld complete (les)boeken, wetenschappelijke artikelen, enz. ChatGPT kan momenteel (feb. 2024) 128.000 *tokens* als context verwerken, maar nieuwere versies van Gemini al 1 miljoen, of soms 10 miljoen. Een token komt ongeveer overeen met 0,75 Engelse woorden; 128.000 tokens komt ongeveer overeen met 200-300 pagina's tekst.
+
+* ChatGPT Turbo (actuele versie feb. 2024) "onthoudt" het begin van de context beter dan het eind. Geef de belangrijkste context dus eerst.
+
+## Samenvatting
+
+Belangrijke regel: *Geef context* - wat wil je met het resultaat, hoe moet dat eruit zien, geef voorbeelden, wat is de doelgroep, enz. Als je invoer geeft, beschrijf wat dit is, en gebruik speciale tekens om de invoer te onderscheiden van je prompt.
+
+* geef ChatGPT een rol (persona);
+    * bijvoorbeeld: je bent een ervaren docent Aardrijkskunde in het voortgezet onderwijs
+* geef referentie-tekst(en) waarop ChatGPT het resultaat kan baseren
+    * bijvoorbeeld een hoofdstuk uit een lesboek, om daar opdrachten bij te maken
+* splits de vraag in eenvoudiger deelvragen
+    * geef een stappenplan, of een manier van denken
+    * of, laat ChatGPT eerst een stappenplan opmaken, voordat je de uitwerking vraagt.
+* laat ChatGPT eerst het probleem analyseren, voordat je deze een oplossing laat beoordelen
+    * voorbeeld: voordat je ChatGPT vraagt om een leerlingen-uitwerking te beoordelen, vraag je ChatGPT om eerst zelf het probleem op te lossen.
+* geef duidelijk aan hoe je wilt dat het resultaat eruit ziet
+    * hoeveel woorden, doelgroep, eventueel voorbeelden
+
 ## Docent-prompts
 
 ### Lesplan
