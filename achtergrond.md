@@ -49,6 +49,13 @@ geeft veel inzicht in ChatGPT en het gebruik daarvan, in het bijzonder voor het 
 Als je bij wilt blijven over de mogelijkheden van ChatGPT voor het onderwijs, 
 abonneer je dan op zijn nieuwsbrief.
 
+## Prompt engineering
+
+* [OpenAI handleiding voor prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+* [Ethan Mollick](...)
+    * https://www.oneusefulthing.org/p/working-with-ai-two-paths-to-prompting
+    * 
+
 ## Kritische geluiden
 
 Het is niet allemaal rozengeur en maneschijn in de wereld van AI. 

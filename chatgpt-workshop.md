@@ -404,7 +404,7 @@ In het Nederlands: de zone van naaste ontwikkeling.
 
 :::
 
-### Khan Migo
+### Khanmigo
 
 De Khan Academy probeert een dergelijke AI tutor te maken, Khanmigo, op basis van 
 CHatGPT. Deze is op de volgende manieren gespecialiseerd:
@@ -422,7 +422,7 @@ zoals de chat-geschiedenis met de tutor.
     * blijft veilig binnen de "grillige grens", minimaal risico op hallicunaties
     * blijft bij het onderwerp
 
-Op dit moment (nov. 2023) is Khanmigo alleen nog maar beschikbaar in de USA.
+*Op dit moment (nov. 2023; feb. 2024) is Khanmigo alleen nog maar beschikbaar in de USA.*
 
 Zie: https://www.khanacademy.org/khan-labs
 
