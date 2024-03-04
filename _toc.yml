@@ -6,6 +6,9 @@ root: intro
 chapters:
 - file: chatgpt-cursus
 - file: chatgpt-workshop
+- file: bijeenkomst-2
+- file: bijeenkomst-3
+- file: bijeenkomst-4
 - file: werkvormen
 - file: prompts
 - file: achtergrond
