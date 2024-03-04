@@ -25,5 +25,9 @@ Hoe kunnen leerlingen ChatGPT gebruiken voor een beter *leerproces*: (meer) lere
 
 > Leerlingen zijn vaak handig in het gebruik van ChatGPT voor het uitvoeren van hun schooltaken - maar weten niet hoe ze ChatGPT kunnen gebruiken om te *leren*. Hoe kun je leerlingen daarbij helpen - en hoe ga je het gesprek daarover aan?
 
-# Thema 2: 
+# Thema 2: tutors
+
+Wat zijn belangrijke elementen van een tutor? Kun je een tutor maken voor je leerlingen, voor een bepaald (lastig) lesonderdeel?
+
+
 
