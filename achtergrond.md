@@ -52,9 +52,12 @@ abonneer je dan op zijn nieuwsbrief.
 ## Prompt engineering
 
 * [OpenAI handleiding voor prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-* [Ethan Mollick](...)
+* [Ethan Mollick's oneusefulthing](https://www.oneusefulthing.org)
     * https://www.oneusefulthing.org/p/working-with-ai-two-paths-to-prompting
-    * 
+    * video: https://www.youtube.com/watch?v=wbGKfAPlZVA *Prompting AI*
+    * https://www.oneusefulthing.org/p/almost-an-agent-what-gpts-can-do
+    * [moreusefulthings)[https://www.moreusefulthings.com/prompts]
+* video: https://www.youtube.com/watch?v=wBAnCMA98ls - *Don't Use ChatGPT Until You Watch This Video* (Leila Gharani)
 
 ## Kritische geluiden
 
