@@ -42,6 +42,10 @@ In deze tweede bijeenkomst gaan we dieper in op het gebruik van gestructureerde 
 * andere voorbeelden van GPTs:
     * [Tutor Me](https://chat.openai.com/g/g-hRCqiqVlM-tutor-me) "Khanmigo Lite"
     * [Wolfram](https://chat.openai.com/g/g-0S5FXLyFN-wolfram) GPT+Wolfram Alpha voor wiskunde en data-vragen
+ 
+:::{tip}
+Het zoekvenster voor de GPTs werkt niet erg slim: de zoektermen die je opgeeft moeten precies passen met de titel en de beschrijving. Als je drie of meer zoektermen invoert krijgt je snel "geen resultaat". Suggestie: voer eerst je belangrijkste zoekterm in; als je dan veel resultaten krijgt die niet echt relevant zijn, voeg dan een tweede zoekterm in, enzovoorts.
+:::
 
 ## Thema 2: een kijkje achter de schermen van LLMs
 
