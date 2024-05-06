@@ -39,6 +39,7 @@ In deze tweede bijeenkomst gaan we dieper in op het gebruik van gestructureerde 
 * GPTs voor het maken van prompts, bijvoorbeeld:
     * [Prompt Engineering](https://chat.openai.com/g/g-bNiLAvz8R-prompt-engineering)
     * [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor)
+    * (deze links geven je direct toegang tot die GPTs, als je ingelogd bent bij ChatGPT)
 * andere voorbeelden van GPTs:
     * [Tutor Me](https://chat.openai.com/g/g-hRCqiqVlM-tutor-me) "Khanmigo Lite"
     * [Wolfram](https://chat.openai.com/g/g-0S5FXLyFN-wolfram) GPT+Wolfram Alpha voor wiskunde en data-vragen

@@ -12,9 +12,9 @@ Het (ambitieuze) *doel van de cursus* is om docenten te leren werken met ChatGPT
 
 :::{tip} Eerstvolgende worskhops
 
-* donderdag 18 april, Utrecht (i&i conferentie, fysiek)
-    * [aanmelden conferentie](https://www.smink-registratie.nl/ieni/)
-    * [conferentie-website](https://ieni.github.io/april2024/)
+* vrijdag 14 juni 2024, Bètapartners conferentie [AI in het onderwijs](https://www.betapartners.nl/ai-in-het-onderwijs/)
+    * Regius College, Schagen
+    * 15:00-19:30 uur 
 
 :::
 
