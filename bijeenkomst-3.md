@@ -2,6 +2,8 @@
 
 **Opmerking:** de agenda voor de volgende bijeenkomsten wordt mede bepaald door de vragen van de deelnemers.
 
+**[Link naar de presentatie](https://docs.google.com/presentation/d/1jd2HFrf0vIKY7uyWmaGYSJ3id8uWCFYlzl9pnkhx47c/edit?usp=sharing)
+
 ## Voorbereiding, huiswerk
 
 **Khanmigo**
