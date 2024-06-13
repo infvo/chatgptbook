@@ -10,10 +10,10 @@ chapters:
 - file: bijeenkomst-3
 - file: bijeenkomst-4
 - file: chatgpt-prompting
-- file: werkvormen
 - file: prompts
 - file: achtergrond
 - file: verdieping
+- file: werkvormen
 - file: presentaties
 - file: videos
 - file: tutor-prompt
