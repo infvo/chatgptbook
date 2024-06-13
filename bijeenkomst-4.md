@@ -23,7 +23,11 @@ Voor voorbeelden, zie:
 
 ## Tutors
 
-Nieuw boek van Sal Khan: Brave New Words. (https://www.bol.com/nl/nl/p/brave-new-words/9300000159809628, https://www.amazon.com/Brave-New-Words-Revolutionize-Education/dp/0593656954)
+Nieuw boek van Sal Khan: Brave New Words - over AI in onderwijs en werk/beroep.
+O.a. achtergrondinformatie over de wording van Khanmigo, het tutor-systeem van de Khan Academy.
+
+* [via bol.com](https://www.bol.com/nl/nl/p/brave-new-words/9300000159809628)
+* [via amazon](https://www.amazon.com/Brave-New-Words-Revolutionize-Education/dp/0593656954)
 
 Video's:
 
@@ -32,6 +36,7 @@ Video's:
 * met Kevis Roose (New York Times, auteur): https://www.youtube.com/watch?v=g1mq8dAiZgQ
 * met Angela Duckworth (van "Grit"): https://www.youtube.com/watch?v=9hBezV3lX-U
 * met Ethan Mollick: https://www.youtube.com/watch?v=KngFdAAgKCY
+* met Peggy Buffington en Tim Krieg: https://www.youtube.com/watch?v=PSFLgn_7McY
 
 Tutors in games: NVIDIA G-Assist https://www.youtube.com/watch?v=RdsyJQWUUSs
 
