@@ -1,9 +1,8 @@
 # ChatGPT cursus
 
-De cursus begint met een [workshop ChatGPT](workshop-chatgpt), online of fysiek.
-Na deze workshop gaan de deelnemers *zelf aan de slag*, bij voorkeur met een groep docenten van de eigen school.
+De cursus begint met de [eerste bijeenkomst](bijeenkomst-1) of met een [workshop ChatGPT](workshop-chatgpt), online of fysiek.
+Na deze eerste bijeenkomst/workshop gaan de deelnemers *zelf aan de slag*, bij voorkeur met een groep docenten van de eigen school.
 Deze docenten komen eens per maand/4 weken fysiek bijeen, om hun resultaten en ervaringen te delen, en om hun ChatGPT-plannen voor de komende periode te bespreken. Ook kunnen dan vragen geformuleerd worden voor de online feedback sessies. Deze bijeenkomsten zijn bij voorkeur op de eigen school.
-
 
 
 ## ChatGPT leren: zelf aan de slag
