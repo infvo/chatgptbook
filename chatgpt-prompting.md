@@ -1,4 +1,5 @@
-# ChatGPT prompting
+(gestructureerde-prompts)=
+# Gestructureerde prompts
 
 * [presentatie](https://docs.google.com/presentation/d/1IOA1N8DRYeyUONZHTiVhqAdEIfJHPmXPmkNeQYRCnns/edit?usp=sharing)
 

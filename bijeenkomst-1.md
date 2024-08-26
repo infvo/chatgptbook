@@ -7,7 +7,7 @@
 
 ## Gestructureerde prompts
 
-Zie: [ChatGPT prompting](chatgpt-prompting).
+Zie: [Gestructureerde prompts](gestructureerde-prompts).
 
 ## Huiswerk, voorbereiding bijeenkomst 2
 

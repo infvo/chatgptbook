@@ -1,5 +1,5 @@
-(gestructureerde-prompts)=
-# Gestructureerde prompts
+(complexe-prompts)=
+# Complexe prompts
 
 De onderstaande voorbeelden zijn ontleend aan Mollick & Mollick; zie
 https://github.com/microsoft/prompts-for-edu/tree/main. 
