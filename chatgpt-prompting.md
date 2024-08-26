@@ -9,7 +9,7 @@ Door experimenteren bouw je daarvoor een intuïtie op: volgens Ethan Mollick kri
 
 :::{admonition} ChatGPT is geen zoekmachine!
 :class: warning
-Als je naar een bepaald feit zoekt, gebruik dan een zoekmachine zoals Google, Bing, of DuckDuckGo; of de AI-zoekmachine Perplexity. Ga na welk van de gevonden antwoorden het best bij je vraag past. En controleer de betrouwbaarheid van je bronnen.
+Als je naar een bepaald feit zoekt, gebruik dan een zoekmachine zoals Google, Bing, of DuckDuckGo; of de AI-zoekmachine [Perplexity[(https://perplexity.ai). Ga na welk van de gevonden antwoorden het best bij je vraag past. En controleer de betrouwbaarheid van je bronnen.
 
 Je kunt ChatGPT wel vragen om voor bepaalde zaken het web te raadplegen. Vraag in dat geval ChatGPT ook om een oordeel te geven over de betrouwbaarheid van de bronnen.
 :::

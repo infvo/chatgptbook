@@ -5,6 +5,10 @@
 
 * [presentatie bijeenkomst 1](https://docs.google.com/presentation/d/1hJqdrGGmxU773Wk1gEu-j-6HmIAzTDfAV-61VafLZdo/edit?usp=sharing)
 
+## Gestructureerde prompts
+
+Zie: [ChatGPT prompting](chatgpt-prompting).
+
 ## Huiswerk, voorbereiding bijeenkomst 2
 
 ### Lezen of kijken (gestructureerde prompts)
@@ -16,17 +20,21 @@
 
 Als je nog meer informatie zoekt:
 
-* https://www.moreusefulthings.com/prompts
 * playlist Mollick & Mollick: Practical AI for Instructors and Students
     * https://www.youtube.com/watch?v=t9gmyvf7JYo&list=PLWO-2_i10ZOt6uNiZCKx8uMkmGzfWzT7y
 
-### Mobiele versie
+### Mobiele versie ChatGPT
 
-Zo mogelijk: installeren van mobiele versie op je telefoon
+Zo mogelijk: installeer de mobiele versie van ChatGPT op je telefoon.
+Gebruik hiervoor dezelfde manier van aanmelden (gebruikersnaam e.d.) als voor de web-versie.
 
-### Opsturen (mail):
+### Experimenteren met ChatGPT:
 
-* best geslaagde prompt (met resultaat)
-* minst geslaagde prompt of lastigste probleem (eventueel met resultaat)
-* eventuele vragen voor volgende bijeenkomsten
+Probeer ChatGPT uit voor tenminste twee (docent)taken. Je kunt je daarvoor laten inspireren door de lijst in Deel 2 - werkvormen van Chatten met Napoleon.
+
+Stuur mij via de mail:
+
+* je best geslaagde prompt (met resultaat)
+* je minst geslaagde prompt of lastigste probleem (eventueel met resultaat)
+* eventuele vragen voor de volgende bijeenkomsten.
 
