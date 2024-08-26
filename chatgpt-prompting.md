@@ -9,7 +9,7 @@ Door experimenteren bouw je daarvoor een intuïtie op: volgens Ethan Mollick kri
 
 :::{admonition} ChatGPT is geen zoekmachine!
 :class: warning
-Als je naar een bepaald feit zoekt, gebruik dan een zoekmachine zoals Google, Bing, of DuckDuckGo; of de AI-zoekmachine Perplexity. Ga na welk van de gevonden antwoorden het best bij je vraag past. En controleer de betrouwbaarheid van je bronnen.
+Als je naar een bepaald feit zoekt, gebruik dan een zoekmachine zoals Google, Bing, of DuckDuckGo; of de AI-zoekmachine [Perplexity[(https://perplexity.ai). Ga na welk van de gevonden antwoorden het best bij je vraag past. En controleer de betrouwbaarheid van je bronnen.
 
 Je kunt ChatGPT wel vragen om voor bepaalde zaken het web te raadplegen. Vraag in dat geval ChatGPT ook om een oordeel te geven over de betrouwbaarheid van de bronnen.
 :::
@@ -61,6 +61,42 @@ Mogelijke vervolgvragen (in dezelfde chat):
 
 
 **Opmerking.** Je hoeft die verschillende onderdelen niet altijd zo expliciet te benoemen, maar het helpt jezelf om je eigen prompts goed te structureren en te begrijpen.
+
+**Voorbeeld 2**
+
+```markdown
+**Persona**: ik ben een docent aan de VO-lerarenopleiding van de UvA; jij (AI) bent een expert in AI en de didactiek daarvan.
+
+**Context**: ik moet docenten uitleggen wat AI is en waarom dit belangrijk is voor VO-docenten
+
+**Taak**: geef een inleiding voor de eerste les over AI in het onderwijs
+
+**Formaat**: geef deze inleiding als punten voor powerpoint slides, met per slide uitgebreide spreker-aantekeningen.
+```
+
+Mogelijke vervolgvragen:
+- maak een powerpoint-presentatie voor deze slides;
+- maak een illustratie voor een bepaalde slide
+- pas dit aan met als doelgroep leerlingen in 4-HAVO (of 2-VMBO).
+
+**Voorbeeld 3**
+
+```markdown
+**Persona**: ik ben docent in het VO; ik geef het vak [MIJN VAK]
+
+**Context**: ik moet het concept [CONCEPT] uitleggen aan [MIJN KLAS] leerlingen
+
+**Taak**: geef een uitleg van dit concept die ik in de les kan gebruiken,
+
+**Formaat**: gebruik maximaal 200 woorden voor de uitleg van het concept.
+
+```
+
+Mogelijke vervolgvraag:
+
+- pas deze uitleg aan zoals deze in Sesamstraat gegeven zou worden
+- geef 5 voorbeelden van dit concept; wees daarbij zo creatief mogelijk; gebruik enthousiaste taal.
+- geef 5 multiple-choice toetsvragen waarmee leerlingen hun begrip van het concept kunnen testen
 
 ### Context
 
