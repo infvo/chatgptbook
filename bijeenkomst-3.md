@@ -18,8 +18,18 @@ en eventueel:
 
 **Opdracht**
 
-Kies (uit het tweede deel van Chatten met Napoleon) twee werkvormen voor leerlingen die van toepassing zijn op je eigen vak, en werk deze uit. Probeer dit zo mogelijk met een aantal leerlingen. Bespreek op bijeenkomst 3 je ervaringen, positieve en negatieve.
+* Kies 1 of 2 onderwerpen waar je leerlingen moeite mee hebben
+* Bedenk hoe AI leerlingen daarbij kan helpen
+    * welke werkvorm(en)? (Ethan Mollick, Chatten met Napoleon, enz.)
+    * welke bronnen gebruik je daarbij (om hallucinaties te voorkomen)
+    * welke prompt(s) gebruik je?
+    * bijvoorbeeld: maak een eigen tutor-GPT 
+* Als je oefent met formatief handelen: hoe kun je dat combineren met AI?
 
+Werk dit uit met ChatGPT (bijvoorbeeld met Canvas; of in de vorm van een eigen tutor-GPT).
+Beschrijf hoe tevreden je bent over het resultaat, en waar het beter kan.
+Als het mogelijk is: probeer dit uit met een paar leerlingen.
+Stuur mij hiervan een kort verslag, met het onderwerp, de werkvorm, bronnen (links), prompt(s, evaluatie/reflectie.
 
 ## Thema 1: gebruik van ChatGPT door leerlingen
 
