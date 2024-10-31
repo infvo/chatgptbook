@@ -3,6 +3,7 @@
 * cursus 2024/25
     * [bijeenkomst 1](https://docs.google.com/presentation/d/1hJqdrGGmxU773Wk1gEu-j-6HmIAzTDfAV-61VafLZdo/edit?usp=sharing)
     * [bijeenkomst 2](https://docs.google.com/presentation/d/1oPCuv3RATDLuLCXRb69fXzwhreG4BzH1is7LFymm0h8/edit?usp=sharing)
+    * [bijeenkomst 3](https://docs.google.com/presentation/d/1jd2HFrf0vIKY7uyWmaGYSJ3id8uWCFYlzl9pnkhx47c/edit?usp=sharing)
 
 * [workshop](https://docs.google.com/presentation/d/1PjTYzbPfQ8eWhUmvBzgU-o_YVG58sRgWjtnKERLLisc/edit?usp=sharing)
 * [idem, MSA versie](https://docs.google.com/presentation/d/1eUMMtk5poRsfvxePPAlOLbT5_rm22JasuRGXS5gbXGc/edit?usp=sharing)
