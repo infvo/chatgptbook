@@ -52,10 +52,21 @@ Het zoekvenster voor de GPTs werkt niet erg slim: de zoektermen die je opgeeft m
 
 Hoe werkt een Large Language Model zoals ChatGPT of Gemini? Hoe worden deze gemaakt?
 
-* video: [Large Language Models](https://www.youtube.com/watch?v=ZRf2BfDLlIA) - Mollick & Mollick
-* video: [Introduction to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) - Andrej Karpathy, 23 nov 2023
-    * eerste 25 minuten.
-    * [presentatie (PDF download)](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view?usp=sharing) of [direct](assets/llmintro.pdf)
+:::{iframe} https://www.youtube.com/embed/ZRf2BfDLlIA
+:width: 400
+Mollick & Mollick - LLMs
+:::
+
+:::{iframe} https://www.youtube.com/embed/zjkBMFhNj_g
+:width: 400
+Andrej Karpathy - over de technologie van LLMs (23 nov 2023)
+:::
+
+Bekijk van deze laatste video in elk geval de eerste 25 minuten.
+De presentatie zelf vind je hier:
+
+* [presentatie PDF](assets/llmintro.pdf) of het origineel:
+* [presentatie (PDF download)](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view?usp=sharing)
 
 ## Voorbereiding volgende bijeenkomst
 
