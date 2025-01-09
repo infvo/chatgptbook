@@ -8,3 +8,6 @@ ext/__pycache__
 ext/sphinx-assessment
 .obsidian
 _build/*
+
+# MyST build outputs
+_build
