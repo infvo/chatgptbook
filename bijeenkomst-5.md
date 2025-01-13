@@ -3,7 +3,7 @@
 * [presentatie](https://docs.google.com/presentation/d/1BKgeo0WIjPRK8DsvCD-xeIK2zfxAKo63ZTSELtZO5lg/edit?usp=sharing)
 * [Canvas tutorial](#canvas-tutorial)
 
-## Co-intelligentie: medische diagnostiek**
+## Co-intelligentie: medische diagnostiek
 
 Artikelen:
 
