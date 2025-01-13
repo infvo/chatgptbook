@@ -13,11 +13,11 @@ Incredible ChatGPT Canvas Features: Tips and Tricks tutorial
 :::
 
 :::{admonition} Tips - voor het bekijken van dergelijke video-tutorials
-:style: tip
+:class: tip
 
-- je kunt ondertiteling ("closed captions") aanzetten, met de CC knop
-- je kunt de taal van de ondertiteling aanpassen, via de Settings knop
-- je kunt de afspeelsnelheid (playback speed) aanpassen, via de Settings-knop
+- de ondertiteling ("closed captions") zet je aan met de CC knop
+- de taal van de ondertiteling kun je aanpassen via de Settings knop
+- de afspeelsnelheid (playback speed) kun je aanpassen via de Settings-knop
 :::
 
 Sinds de publicatie van deze video (17 oktober 2024) is het gebruik van Canvas iets veranderd:

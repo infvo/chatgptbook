@@ -10,14 +10,6 @@ Het (ambitieuze) *doel van de cursus* is om docenten te leren werken met ChatGPT
 - en: beiden beter voorbereid op een toekomst met AI
 :::
 
-:::{tip} Eerstvolgende worskhops
-
-* vrijdag 14 juni 2024, Bètapartners conferentie [AI in het onderwijs](https://www.betapartners.nl/ai-in-het-onderwijs/)
-    * Regius College, Schagen
-    * 15:00-19:30 uur 
-
-:::
-
 ## Waarom deze cursus?
 
 ChatGPT en andere vormen van AI hebben een steeds grotere invloed op de maatschappij - en zeker ook op het onderwijs. Leerlingen gebruiken dit al, en het heeft geen zin om dat te verbieden, maar wel om ze te leren het goed te gebruiken.
