@@ -9,6 +9,7 @@ chapters:
 - file: bijeenkomst-2
 - file: bijeenkomst-3
 - file: bijeenkomst-4
+- file: bijeenkomst-5
 - file: chatgpt-workshop
 - file: chatgpt-prompting
 - file: prompts
@@ -17,5 +18,6 @@ chapters:
 - file: werkvormen
 - file: presentaties
 - file: videos
+- file: handleidingen
 - file: tutor-prompt
 - file: nieuws

@@ -5,6 +5,7 @@
     * [bijeenkomst 2](https://docs.google.com/presentation/d/1oPCuv3RATDLuLCXRb69fXzwhreG4BzH1is7LFymm0h8/edit?usp=sharing)
     * [bijeenkomst 3](https://docs.google.com/presentation/d/1jd2HFrf0vIKY7uyWmaGYSJ3id8uWCFYlzl9pnkhx47c/edit?usp=sharing)
     * [bijeenkomst 3 - Bètapartners](https://docs.google.com/presentation/d/1HlNldvjT9lq3s_P7lHu9D89CJSKDKk3eOeC-bYAiLFw/edit?usp=sharing)
+    * [bijeenkomst 5 (vervolg-1)](https://docs.google.com/presentation/d/1BKgeo0WIjPRK8DsvCD-xeIK2zfxAKo63ZTSELtZO5lg/edit?usp=sharing)
 
 * [workshop](https://docs.google.com/presentation/d/1PjTYzbPfQ8eWhUmvBzgU-o_YVG58sRgWjtnKERLLisc/edit?usp=sharing)
 * [idem, MSA versie](https://docs.google.com/presentation/d/1eUMMtk5poRsfvxePPAlOLbT5_rm22JasuRGXS5gbXGc/edit?usp=sharing)
