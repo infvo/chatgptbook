@@ -32,3 +32,15 @@ Zie voor uitleg ELO-rating: https://nl.wikipedia.org/wiki/Elo-rating
 
 zie: [Canvas tutorial](#canvas-tutorial)
 
+## Voorbereiden lastige gesprekken
+
+zie bijvoorbeeld: https://www.teamdynamics.io/blog/use-chatgpt-for-difficult-work-conversations-feedback-raises-more
+
+en: https://www.youtube.com/watch?v=howySgNxCZI
+
+:::{iframe} https://www.youtube.com/embed/howySgNxCZI
+:width: 100%
+How Gemini 2.0 AI Helps You Nail Crucial Conversations
+:::
+
+Dit laatste voorbeeld is met Google Gemini 2.0, maar voor ChatGPT werkt dit analoog (met Advanced Voice mode).
