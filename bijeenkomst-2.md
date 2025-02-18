@@ -2,7 +2,9 @@
 
 **Opmerking:** de agenda voor de volgende bijeenkomsten wordt mede bepaald door de vragen van de deelnemers.
 
+* [presentatie - feb 2025](https://docs.google.com/presentation/d/1dPiqIbJG6qosJodm5bUZMtn_PGiyhGKzczZ9hRbVv0Y/edit?usp=sharing)
 * [presentatie - agenda](https://docs.google.com/presentation/d/1oPCuv3RATDLuLCXRb69fXzwhreG4BzH1is7LFymm0h8/edit?usp=sharing)
+
 
 ## Huiswerk, voorbereiding
 
