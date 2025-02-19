@@ -51,7 +51,7 @@ Voor beide onderdelen bevat deze website het nodige *materiaal* (naast het boek:
 
 ### ChatGPT Plus
 
-Om met ChatGPT aan de slag te gaan, heb je een account nodig. Je kunt werken met een gratis account, maar we raden aan om een account op ChatGPT Plus te nemen: dat kost ongeveer 20 Euro per maand. Dit biedt de volgende extra's:
+Om met ChatGPT aan de slag te gaan, heb je een account nodig. Je kunt werken met een gratis account, maar we raden aan om een account op ChatGPT Plus te nemen: dat kost ongeveer 25 Euro per maand. Dit biedt de volgende extra's:
 
 * het geeft je een kijkje in de toekomst: ChatGPT 4 is ongeveer een jaar vooruit op de gratis versies zoals ChatGPT 3.5.
 * je kunt een veel grotere context gebruiken in je prompts - en daardoor deze veel beter afstemmen op je eigen situatie
@@ -60,21 +60,4 @@ Om met ChatGPT aan de slag te gaan, heb je een account nodig. Je kunt werken met
 
 In plaats van de individuele ChatGPT Plus, kun je als team docenten ook een (iets duurdere) Team-abonnement nemen.
 
-## Kosten en tijdsinvestering
 
-:::{admonition} Concept-kostenraming!
-De kosten hieronder zijn nog een voorlopige raming.
-Maak een afspraak (e.dijkstra@ieni.org) om hiermee aan de slag te gaan.
-:::
-
-* kosten van de workshop, afhankelijk van de volgende alternatieven
-    * als onderdeel van de i&i conferentie (kosten van de conferentie-deelname: 150 Euro)
-    * op de eigen school, door i&i-docent verzorgd: 500 Euro (voor een groep van ca. 15 deelnemers)
-    * op de eigen school, verzorgd door een eigen docent: gratis
-* boek: 25 Euro per deelnemer
-* ChatGPT Plus, 6 maanden: ca. 120 Euro (optioneel, maar sterk aanbevolen)
-* gebruik materialen op deze website: gratis
-* online begeleiding door i&i: voor i&i leden gratis
-    * suggestie: meld alle deelnemers aan als i&i lid (35 Euro/jaar). Met die bijdragen kunnen we onder meer dit materiaal up-to-date houden.
-
-Tijdsinvestering: workshop: 2-3 uur; maandelijkse bijeenkomsten: 1,5 uur; zelf aan de slag: 2-5 uur per week (voor je dagelijkse werk). Na ca. 10 uur kun je ChatGPT gebruiken voor je dagelijkse werk - om beter onderwijs te geven, en/of in minder tijd.
