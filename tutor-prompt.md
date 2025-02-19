@@ -1,6 +1,7 @@
-# Tutor-prompt
+# Tutor-prompt maken
 
-De onderstaande prompt voor het *maken van een tutor-prompt* is afkomstig uit het artikel van Mollick & Mollick, zie:
+Met behulp van de onderstaande prompt kun je een *tutor-prompt maken*, bijvoorbeeld voor het gebruik in een GPT.
+Deze prompt is afkomstig uit het artikel van Mollick & Mollick, zie:
 https://ssrn.com/abstract=4802463
 
 Mollick, Ethan R. and Mollick, Lilach, Instructors as Innovators: a Future-focused Approach to New AI Learning Opportunities, With Prompts (April 22, 2024). The Wharton School Research Paper Forthcoming, Available at SSRN: https://ssrn.com/abstract=4802463 or http://dx.doi.org/10.2139/ssrn.4802463
