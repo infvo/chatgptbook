@@ -1,6 +1,10 @@
 # Bijeenkomst 4
 
-Zie de [presentatie](https://docs.google.com/presentation/d/1gacugyso-GWJRqhwilZ2V0c2otqaDjoNpNTNsFef1lw/edit?usp=sharing)
+Zie de 
+
+* [presentatie](https://docs.google.com/presentation/d/1gacugyso-GWJRqhwilZ2V0c2otqaDjoNpNTNsFef1lw/edit?usp=sharing)
+* [preentatie Bètapartners-cursus](https://docs.google.com/presentation/d/1BlgDJUWhwgL8xS1bSRiXJlLd5RD15pgWtGhRLb_hNiQ/edit?usp=sharing)
+
 
 **Update: 25 juni 2024**
 
