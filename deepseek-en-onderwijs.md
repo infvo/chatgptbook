@@ -33,13 +33,13 @@ Hoewel Deepseek R1 op meerdere manieren toegankelijk is, bijvoorbeeld via Perple
 Maar op termijn heeft dit waarschijnlijk een aantal positieve effecten.
 
 **Stelling.** 
-Voor gebruik van AI in het onderwijs, bijvoorbeeld als tutor, heb je goede AI-modellen nodig. 
-Maar het hoeven geen top-modellen te zijn. 
+Voor gebruik van AI in het onderwijs, bijvoorbeeld als tutor, heb je een goed AI-model nodig. 
+Maar dat hoeft geen top-model te zijn. 
 Waarschijnlijk is een model van de kracht van de directe opvolgers van Deepseek R1 (R2, R3) al ruimschoots voldoende.
 Een dergelijk model komt mogelijk binnen een jaar beschikbaar - als open source model.
 
 * open source modellen zoals Deepseek R1 bieden extra mogelijkheden voor het onderwijs, om het gedrag, de didactiek en de ingebouwde "kennis" *af te stemmen op de eigen onderwijssituatie*.
-* het onderwijs is met een dergelijke modellen niet afhankelijk van dure Big Tech modellen.
+* het onderwijs is met een dergelijke modellen niet afhankelijk van grote en dure Big Tech modellen.
 * deze modellen zijn waarschijnlijk efficiënt genoeg om op een school-server of op een eigen desktop/laptop te laten werken, wat naast het *kostenvoordeel* ook veel *privacy-voordelen* geeft.
 
 
