@@ -7,6 +7,30 @@ project:
   authors: []
   github: https://github.com/infvo/chatgptbook
   # bibliography: []
+  toc:
+    - file: intro
+    - file: chatgpt-cursus
+      children:
+        - file: bijeenkomst-1
+        - file: bijeenkomst-2
+        - file: bijeenkomst-3
+        - file: bijeenkomst-4
+        - file: bijeenkomst-5
+        - file: bijeenkomst-6
+        - file: bijeenkomst-7
+        - file: bijeenkomst-8
+    - file: co-intelligentie
+    - file: chatgpt-workshop
+    - file: chatgpt-prompting
+    - file: prompts
+    - file: achtergrond
+    - file: verdieping
+    - file: werkvormen
+    - file: presentaties
+    - file: videos
+    - file: handleidingen
+    - file: tutor-prompt
+    - file: nieuws
 site:
   template: book-theme
   title: "Cursus ChatGPT voor docenten"
